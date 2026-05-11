@@ -11,3 +11,8 @@ This document defines the data fields that each event in UniEvents must have. Th
 - **Capacity** — maximum number of registered attendees. Integer ≥ 1. Used to trigger waitlist logic when full.
 - **Organizer** — reference to the user account (with Organizer role) responsible for the event. Displayed on the event page.
 - **Category** — one of a fixed set: Academic, Social, Career, Sports, Cultural, Workshop. Used for filtering and search.
+
+## TODO
+
+- Decide on category enum vs free-text tags
+- Add support for recurring events
