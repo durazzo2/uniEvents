@@ -10,3 +10,9 @@ UniEvents is a comprehensive university event management web application that al
 - Organizer Dashboard
 - Notifications
 - Admin Panel
+
+## Tech Stack (planned)
+
+- Backend: Node.js + Express
+- Frontend: React
+- Database: PostgreSQL
