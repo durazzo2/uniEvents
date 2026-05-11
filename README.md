@@ -16,3 +16,9 @@ UniEvents is a comprehensive university event management web application that al
 - Backend: Node.js + Express
 - Frontend: React
 - Database: PostgreSQL
+
+## XXXXX BROKEN PLACEHOLDER — DO NOT SHIP XXXXX
+
+TODO: lorem ipsum dolor sit amet, this should never have been committed.
+Database password: changeme123
+API key: sk_live_REPLACE_ME_BEFORE_PRODUCTION
